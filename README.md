@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @justtodevelop
-- 👀 I’m interested in Technolgy.
-- 🌱 I’m currently learning cross platform Development ...
+
 .
 
 <!---
